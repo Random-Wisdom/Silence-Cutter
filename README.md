@@ -5,8 +5,8 @@ This small and simple python code lets you automatically remove silent parts fro
 
 The scirpt uses ffmpeg and python.
 
-This idea was inspired from == https://github.com/carykh/jumpcutter ==
-and                         == https://gitlab.com/dak425/scripts/-/tree/master ==
+This idea was inspired from : https://github.com/carykh/jumpcutter 
+and                         : https://gitlab.com/dak425/scripts/-/tree/master
 
 
 This was made on windows and it might not work on other platforms.
