@@ -1,5 +1,6 @@
 # Silence-Cutter
-## My very first practical piece of code 
+## Automatically remove silent parts of video easily
+### My very first practical piece of code 
 
 This small and simple python code lets you automatically remove silent parts from your video, hence saving you a lot of time
 
