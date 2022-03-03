@@ -20,3 +20,4 @@ This was made on windows and it might not work on other platforms.
 3. Place the python script and the video to be cut in same folder
 4. Run the python script and enter **filename.extension**
 
+![Screenshot of execution](https://user-images.githubusercontent.com/100824348/156534056-e3c8bfe1-1e2c-4dd4-8242-662b73315bf6.jpg)
